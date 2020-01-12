@@ -1,2 +1,2 @@
 # coursera-abhijit-capstone
-coursera-capstoreproject-abhijitdas
+coursera-capstoneproject-abhijitdas
